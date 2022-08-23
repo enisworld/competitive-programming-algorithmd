@@ -9,9 +9,14 @@ Bu problemler aşağıda bulunan link'ten alınmıştır. Problemlerin çözüml
 	
 Proje içerisinde çözümü yapılmış olan problemler:
 	Binary Exponentiation
-	Factoring Exponentiation
 	Euclidean algorithm for computing the greatest common divisor
+	
+	
+Proje içerisinde çözülecek olan problemler:	
+	Factoring Exponentiation
 	Extended Euclidean Algorithm
 	Linear Diophantine Equations
 	Fibonacci Numbers
+	...
+	...
 </pre>
